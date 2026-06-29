@@ -1,0 +1,5 @@
+order_status,order_count
+Delivered,1020
+"In Transit",65
+Cancelled,86
+Returned,79

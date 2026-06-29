@@ -1,0 +1,10 @@
+product_id,product_name,category,cost_price
+P028,"Lip Balm SPF 30","Lip Care",92
+P016,"Salicylic Acid Face Cleanser",Cleanser,117
+P020,"Rose Water Hydrating Toner",Toner,139
+P009,"Ceramide Moisturizer",Moisturizer,145
+P021,"Caffeine Under Eye Cream","Eye Care",157
+P027,"Body Wash with Salicylic Acid","Body Care",159
+P013,"SPF 50 Sunscreen",Sunscreen,168
+P023,"Anti-Dandruff Shampoo","Hair Care",221
+P001,"2% Salicylic Acid Face Serum",Serum,247

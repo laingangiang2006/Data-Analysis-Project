@@ -20,7 +20,7 @@ An EDA assignment for INFO 101 at Victoria University of Wellington (worth 35% o
 
 ### 2. Netflix Movies & TV Shows (Python EDA)
 
-**Folder:** Python EDA Netflix Movies and TV Shows
+**Folder:** [Python EDA Netflix Movies and TV Shows](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/Python%20EDA%20Netflix%20Movies%20and%20TV%20Shows)
 
 Explores Netflix's content catalog to uncover patterns in genre distribution, vote engagement, and language representation.
 

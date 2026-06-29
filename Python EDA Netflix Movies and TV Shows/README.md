@@ -32,12 +32,11 @@ The dataset is uploaded by [Alisha Nadeem on Kaggle](https://www.kaggle.com/data
 
 | File | Description |
 |------|-------------|
-| [README.md](https://github.com/laingangiang2006/Netflix-Movies-and-TV-Shows/blob/main/README.md) | Project documentation |
-| [Charts](https://github.com/laingangiang2006/Netflix-Movies-and-TV-Shows/tree/main/Figures) | Charts |
+| [README.md](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Netflix%20Movies%20and%20TV%20Shows/README.md) | Project documentation |
 | [Netflix Movies and TV Shows Dataset](https://github.com/laingangiang2006/Netflix-Movies-and-TV-Shows/blob/main/mymoviedb%20(1).csv) | Raw dataset |
-| [Python Notebook](https://github.com/laingangiang2006/Python-Netflix-Movies-and-TV-Shows-Analysis/blob/main/netflix_analysis.py) | Python notebook |
-| [Infographic](https://github.com/laingangiang2006/Python-Netflix-Movies-and-TV-Shows-Analysis/blob/main/Netflix%20Movies%20&%20TV%20Shows%20%20Data%20Analysis%20Infographic.pdf) | Infographic (pdf file) |
-| [Netflix Movies & TV Shows Data Analysis Presentation](https://github.com/laingangiang2006/Python-Netflix-Movies-and-TV-Shows-Analysis/blob/main/Presentation.pptx) | Presentation (pptx file) |
+| [Jupyter Notebook](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Netflix%20Movies%20and%20TV%20Shows/netflix_analysis.ipynb) | EDA and visualizations |
+| [Infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Netflix%20Movies%20and%20TV%20Shows/Netflix%20Movies%20%26%20TV%20Shows%20%20Data%20Analysis%20Infographic.pdf) | Infographic |
+| [Netflix Movies & TV Shows Data Analysis Presentation](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Netflix%20Movies%20and%20TV%20Shows/Presentation.pptx) | Presentation |
 
 > If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/netflix-movies-tv-shows-analysis).
 

@@ -49,7 +49,7 @@ View the full diagram as a [PDF infographic](https://github.com/laingangiang2006
 | [Relationship Diagram](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/Relationship%20Diagram) | Relationship diagram (mwb file, pdf file) |
 | [SQL Queries](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/Skincare_Analysis.sql) | SQL queries |
 | [CSV Files](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/CSV%20File) | CSV files exported from MySQL |
-| [Python Notebook](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/Python%20Notebook.py) | Python notebook |
+| [Python Notebook](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/Python%20Notebook.py) | EDA and visualizations |
 | [Infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) | Infographic (pdf file) |
 
 > If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/d2c-skincare-e-commerce-analysis).

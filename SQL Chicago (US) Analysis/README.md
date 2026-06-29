@@ -24,11 +24,11 @@ These dump datasets are provided in the course ["SQL: A Practical Introduction f
 
 | File | Description |
 |------|--------------|
-| [README.md](https://github.com/laingangiang2006/Chicago-US-SQL-Analysis/blob/main/README.md) | Project documentation |
-| [Final Project Description](https://github.com/laingangiang2006/Chicago-US-SQL-Analysis/blob/main/Final%20Project%20-%20Using%20SQL%20in%20MYSQL%20with%20phpMyAdmin.pdf) | Final project description file, including some instructions, problems, ... |
-| [Dump Datasets](https://github.com/laingangiang2006/Chicago-US-SQL-Analysis/tree/main/Dataset) | Dump datasets taken from the course |
-| [chicago_assignment_solutions.sql](https://github.com/laingangiang2006/SQL-Chicago-US-Analysis/blob/main/chicago_assignment_solutions.sql) | SQL queries solving 10 problems assigned in the project's final project |
-| [additional_analysis.sql](https://github.com/laingangiang2006/SQL-Chicago-US-Analysis/blob/main/additional_analysis.sql) | My additional analysis alongside the problems assigned in the assignment |
+| [README.md](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Chicago%20(US)%20Analysis/README.md) | Project documentation |
+| [Final Project Description](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Chicago%20(US)%20Analysis/Final%20Project%20-%20Using%20SQL%20in%20MYSQL%20with%20phpMyAdmin.pdf) | Final project description file, including some instructions, problems, ... |
+| [Dump Datasets](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/SQL%20Chicago%20(US)%20Analysis/Dataset) | Dump datasets taken from the course |
+| [chicago_assignment_solutions.sql](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Chicago%20(US)%20Analysis/additional_analysis.sql) | SQL queries solving 10 problems assigned in the project's final project |
+| [additional_analysis.sql](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Chicago%20(US)%20Analysis/chicago_assignment_solutions.sql) | My additional analysis alongside the problems assigned in the assignment |
 
 ---
 

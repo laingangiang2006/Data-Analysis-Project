@@ -6,7 +6,7 @@ A portfolio of exploratory data analysis (EDA) projects spanning Excel, Python, 
 
 ## Projects
 
-### 1. 📚 Libby Audiobook Borrowing History (INFO 101 — Excel EDA)
+### 1. Libby Audiobook Borrowing History (INFO 101 — Excel EDA)
 
 **Folder:** [Excel EDA Libby Borrowing History Between 2020 and 2025](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/Excel%20EDA%20Libby%20Borrowing%20History%20Between%202020%20and%202025)
 
@@ -18,7 +18,7 @@ An EDA assignment for INFO 101 at Victoria University of Wellington (worth 35% o
 
 ---
 
-### 2. 🎬 Netflix Movies & TV Shows (Python EDA)
+### 2. Netflix Movies & TV Shows (Python EDA)
 
 **Folder:** Python EDA Netflix Movies and TV Shows
 
@@ -35,7 +35,7 @@ Explores Netflix's content catalog to uncover patterns in genre distribution, vo
 
 ---
 
-### 3. ☕ Starbucks Customer Ordering Patterns (Python EDA)
+### 3. Starbucks Customer Ordering Patterns (Python EDA)
 
 **Folder:** [Python EDA Starbucks Customer Ordering Patterns](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/Python%20EDA%20Starbucks%20Customer%20Ordering%20Patterns)
 
@@ -49,7 +49,7 @@ Analyses 100,000 Starbucks transactions from 2024–2025 to uncover ordering pat
 
 ---
 
-### 4. 🚲 Bike Sales Analysis (Python + Excel EDA)
+### 4. Bike Sales Analysis (Python + Excel EDA)
 
 **Folder:** [Python Excel EDA Bike Sales](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/Python%20Excel%20EDA%20Bike%20Sales)
 
@@ -61,7 +61,7 @@ An end-to-end analysis of a bike sales dataset, from raw data cleaning in Excel 
 
 ---
 
-### 5. 🏃 Work-Life Balance and Longevity (Python + Excel EDA)
+### 5. Work-Life Balance and Longevity (Python + Excel EDA)
 
 **Folder:** [Python Excel EDA Work-Life Balance and Longevity](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/Python%20Excel%20EDA%20Work-Life%20Balance%20and%20Longevity)
 
@@ -75,7 +75,7 @@ Analyses how daily lifestyle choices — work, rest, sleep, and exercise — aff
 
 ---
 
-### 6. 🏙️ Chicago (USA) Analysis (SQL)
+### 6. Chicago (USA) Analysis (SQL)
 
 **Folder:** [SQL Chicago (US) Analysis](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/SQL%20Chicago%20(US)%20Analysis)
 
@@ -93,7 +93,7 @@ A SQL analysis of Chicago's crime reports, public school performance, and socioe
 
 ---
 
-### 7. 🧴 D2C Skincare E-Commerce Analysis (SQL + Python)
+### 7. D2C Skincare E-Commerce Analysis (SQL + Python)
 
 **Folder:** [SQL Python D2C Skincare E-Commerce Analysis](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis)
 

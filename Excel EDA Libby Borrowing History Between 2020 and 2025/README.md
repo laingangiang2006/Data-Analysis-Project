@@ -1,6 +1,3 @@
-<img width="12800" height="4340" alt="Logo Standard Landscape Reversed RGB" src="https://github.com/user-attachments/assets/48d75d64-a3d4-4560-860e-a0ca487cf260" />
-
-
 # INFO 101 - Data Analysis Assignment
 
 This is my exploratory data analysis (EDA) for Assignment 2 in INFO 101 at Victoria University of Wellington, which weighed 35% of my overall grade. The dataset contains augmented data from a readers’ Libby borrowing history between 2020 and 2025. All listed texts are audiobooks borrowed from Wellington City Library and the Lower North Island library. The standard loan term is 21 days (3 weeks), after which time the audiobook gets automatically returned regardless of whether the borrower has finished reading it.
@@ -24,13 +21,19 @@ As required by the lecturers and tutors, after processing data and making the pi
 
 ---
 
+# Infographic
+
+> View the full diagram as a [PDF infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Excel%20EDA%20Libby%20Borrowing%20History%20Between%202020%20and%202025/Infographic.pdf) or open it directly in [Canva](https://canva.link/oqysyspr6q4xvz6).
+
+---
+
 ## Repository Structure
 
 | File | Description |
 |------|--------------|
-| [README.md](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/README.md) | Project documentation |
-| [Excel Notebook](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/Excel%20notebook.xlsx) | Excel notebook for data cleaning and analysis, with pivot tables and pivot charts |
-| [Infographic](https://github.com/laingangiang2006/Excel-Libby-Borrowing-History-Analysis-Between-2020-and-2025/blob/main/Infographic.pdf) | Infographic (pdf file) |
+| [README.md](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Excel%20EDA%20Libby%20Borrowing%20History%20Between%202020%20and%202025/README.md) | Project documentation |
+| [Excel Notebook](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Excel%20EDA%20Libby%20Borrowing%20History%20Between%202020%20and%202025/Excel%20notebook.xlsx) | Excel notebook for data cleaning and analysis, with pivot tables and pivot charts |
+| [Infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Excel%20EDA%20Libby%20Borrowing%20History%20Between%202020%20and%202025/Infographic.pdf) | Infographic |
 
 ---
 

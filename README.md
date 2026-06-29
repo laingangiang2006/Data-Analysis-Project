@@ -121,6 +121,12 @@ A combined EDA and business performance analysis of a Direct-to-Consumer skincar
 
 ---
 
+## Author
+
+**laingangiang2006** - [GitHub Profile](https://github.com/laingangiang2006)
+
+---
+
 ## License
 
 This portfolio is open for educational and personal use. Dataset credits are listed in each individual project's README.

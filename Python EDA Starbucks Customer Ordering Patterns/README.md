@@ -1,5 +1,3 @@
-<img width="6010" height="1870" alt="Starbucks_Logo_Letter_Starbucks_Green" src="https://github.com/user-attachments/assets/c8bb8d88-d038-4697-98d9-82d319893399" />
-
 # Exploratory Data Analysis of Starbucks Customer Ordering Patterns
 
 This exploratory data analysis project analyzes 100,000 Starbucks transactions (2024–2025) to uncover customer ordering patterns across digital and physical channels by product, time, and behavior.
@@ -20,11 +18,7 @@ The dataset is uploaded by [Likitha Gedipudi on Kaggle](https://www.kaggle.com/d
 
 ## Infographic
 
-This is the storytelling infographic, designed in Canva to communicate insights derived from Python-based analysis, including functions, pivot tables, and pivot charts.
-
-<img width="10508" height="8509" alt="Starbucks Customer Ordering Patterns" src="https://github.com/user-attachments/assets/08b807f4-8a8a-48d1-9435-61f4fae9b958" />
-
-> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/Python-Starbucks-Customer-Ordering-Patterns-Analysis/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) or viewing in [Canva](https://canva.link/2jbk8lweezz6tus).
+View the full diagram as a [PDF infographic](https://github.com/laingangiang2006/Python-Starbucks-Customer-Ordering-Patterns-Analysis/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) or open it directly in [Canva](https://canva.link/2jbk8lweezz6tus).
 
 ---
 

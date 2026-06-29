@@ -20,7 +20,7 @@ The dataset is uploaded by [Oluwatishin Adewale on Kaggle](https://www.kaggle.co
 
 ## Infographic
 
-> You can view the infographic by either downloading this pdf [infographic](https://github.com/laingangiang2006/Excel-Work-Life-Balance-and-Longevity/blob/main/Infographic.pdf) or viewing in [Canva](https://canva.link/gfq8sjxzwlxwicy).
+View the full diagram as a [PDF infographic](https://github.com/laingangiang2006/Excel-Work-Life-Balance-and-Longevity/blob/main/Infographic.pdf) or open it directly in [Canva](https://canva.link/gfq8sjxzwlxwicy).
 
 ---
 

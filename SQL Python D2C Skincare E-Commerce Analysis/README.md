@@ -34,21 +34,9 @@ The datasets are uploaded by [Kaushal Chanchadiya on Kaggle](https://www.kaggle.
 
 ---
 
-## Relationship Diagram
-
-<img width="1189" height="1683" alt="image" src="https://github.com/user-attachments/assets/451d1975-44a0-450c-bd19-220e29dcd971" />
-
-> Alternatively, you can view the diagram by downloading either mwb or pdf file in this [Directory](https://github.com/laingangiang2006/Data-Analysis-Project/tree/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/Relationship%20Diagram).
-
----
-
 ## Infographic
 
-This is the storytelling infographic, designed in Canva to communicate insights derived from SQL- and Python-based analysis, including functions, pivot tables, and pivot charts.
-
-<img width="21042" height="8008" alt="D2C Skincare E-Commerce Analysis Infographic" src="https://github.com/user-attachments/assets/917a3455-8f81-42cb-8eff-99d54e7003d6" />
-
-> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) or viewing in [Canva](https://canva.link/7nsyfusoz4vfptc).
+View the full diagram as a [PDF infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) or open it directly in [Canva](https://canva.link/7nsyfusoz4vfptc).
 
 ---
 

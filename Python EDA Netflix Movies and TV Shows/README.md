@@ -56,6 +56,12 @@ The dataset is uploaded by [Alisha Nadeem on Kaggle](https://www.kaggle.com/data
 
 ---
 
+## Author
+
+**laingangiang2006** - [GitHub Profile](https://github.com/laingangiang2006)
+
+---
+
 ## License
 
 This project is for educational purposes. 

@@ -52,6 +52,12 @@ View the full diagram as a [PDF infographic](https://github.com/laingangiang2006
 
 ---
 
+## Author
+
+**laingangiang2006** - [GitHub Profile](https://github.com/laingangiang2006)
+
+---
+
 ## License
 
 This project is for educational purposes. 

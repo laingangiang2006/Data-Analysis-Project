@@ -26,11 +26,10 @@ View the full diagram as a [PDF infographic](https://github.com/laingangiang2006
 
 | File | Description |
 |------|-------------|
-| [README.md](https://github.com/laingangiang2006/Netflix-Movies-and-TV-Shows/blob/main/README.md) | Project documentation |
-| [Figures](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/tree/main/Figures) | Figures |
-| [Starbucks Customer Ordering Patterns Dataset](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/starbucks_customer_ordering_patterns.csv) | Raw dataset |
-| [Starbucks Customer Ordering Patterns](https://github.com/laingangiang2006/Starbucks-Customer-Ordering-Patterns/blob/main/Starbucks%20Customer%20Ordering%20Patterns.py) | Python workbook |
-| [Infographic](https://github.com/laingangiang2006/Python-Starbucks-Customer-Ordering-Patterns-Analysis/blob/main/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) | Infographic (pdf file) |
+| [README.md](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Starbucks%20Customer%20Ordering%20Patterns/README.md) | Project documentation |
+| [Starbucks Customer Ordering Patterns Dataset](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Starbucks%20Customer%20Ordering%20Patterns/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) | Raw dataset |
+| [Jupyter Notebook](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Starbucks%20Customer%20Ordering%20Patterns/Starbucks%20Customer%20Ordering%20Patterns.ipynb) | EDA and visualizations |
+| [Infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Starbucks%20Customer%20Ordering%20Patterns/Starbucks%20Customer%20Ordering%20Patterns%20Infographic.pdf) | Infographic (pdf file) |
 
 > If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/starbucks-customer-ordering-patterns).
 

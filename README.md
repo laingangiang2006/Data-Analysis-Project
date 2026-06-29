@@ -129,4 +129,4 @@ A combined EDA and business performance analysis of a Direct-to-Consumer skincar
 
 ## License
 
-This portfolio is open for educational and personal use. Dataset credits are listed in each individual project's README.
+This project is for educational purposes. Dataset credits are listed in each individual project's README.

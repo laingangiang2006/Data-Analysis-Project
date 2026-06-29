@@ -22,9 +22,9 @@ The dataset is uploaded by [Alisha Nadeem on Kaggle](https://www.kaggle.com/data
 
 ## Infographic & Presentation
 
-> Regarding the infographic, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/Python-Netflix-Movies-and-TV-Shows-Analysis/blob/main/Netflix%20Movies%20&%20TV%20Shows%20%20Data%20Analysis%20Infographic.pdf) or viewing in [Canva](https://canva.link/8r0emc96u45hr3a).
+View the full diagram as a [PDF infographic](https://github.com/laingangiang2006/Python-Netflix-Movies-and-TV-Shows-Analysis/blob/main/Netflix%20Movies%20&%20TV%20Shows%20%20Data%20Analysis%20Infographic.pdf) or open it directly in [Canva](https://canva.link/8r0emc96u45hr3a).
 
-> Regarding the presentation, you can view the presentation by accessing this [Canva presentation](https://canva.link/f3u8k7qwhfo7ktk) and view the infographic by accessing this [Canva infographic](https://canva.link/8r0emc96u45hr3a).
+View the full diagram as a [PPTX presentation](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20EDA%20Netflix%20Movies%20and%20TV%20Shows/Presentation.pptx) or open it directly in [Canva](https://canva.link/f3u8k7qwhfo7ktk).
 
 ---
 

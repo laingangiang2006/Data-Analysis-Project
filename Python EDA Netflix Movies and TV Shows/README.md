@@ -1,5 +1,3 @@
-<img width="6010" height="1870" alt="BrandAssets_Logos_01-Wordmark" src="https://github.com/user-attachments/assets/44e2fa76-0047-4799-a884-5bd4cc9979ce" />
-
 # Exploratory Data Analysis (EDA) of Netflix Movies & TV Shows
 
 This exploratory data analysis project explores Netflix's movies and TV shows catalog to uncover patterns in content popularity, genre distribution, viewer engagement, and language representation.
@@ -24,11 +22,7 @@ The dataset is uploaded by [Alisha Nadeem on Kaggle](https://www.kaggle.com/data
 
 ## Infographic & Presentation
 
-This is the storytelling infographic, designed in Canva to communicate insights derived from Python-based analysis, including functions, pivot tables, and pivot charts.
-
-<img width="17206" height="8305" alt="Netflix Movies   TV Shows  Data Analysis" src="https://github.com/user-attachments/assets/079007fb-4090-4f65-81ac-9d5d705b7779" />
-
-> Alternatively, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/Python-Netflix-Movies-and-TV-Shows-Analysis/blob/main/Netflix%20Movies%20&%20TV%20Shows%20%20Data%20Analysis%20Infographic.pdf) or viewing in [Canva](https://canva.link/8r0emc96u45hr3a).
+> Regarding the infographic, you can view the diagram by downloading this pdf [infographic](https://github.com/laingangiang2006/Python-Netflix-Movies-and-TV-Shows-Analysis/blob/main/Netflix%20Movies%20&%20TV%20Shows%20%20Data%20Analysis%20Infographic.pdf) or viewing in [Canva](https://canva.link/8r0emc96u45hr3a).
 
 > Regarding the presentation, you can view the presentation by accessing this [Canva presentation](https://canva.link/f3u8k7qwhfo7ktk) and view the infographic by accessing this [Canva infographic](https://canva.link/8r0emc96u45hr3a).
 

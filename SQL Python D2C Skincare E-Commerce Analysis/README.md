@@ -52,7 +52,7 @@ View the full diagram as a [PDF infographic](https://github.com/laingangiang2006
 | [Python Notebook](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/Python%20Notebook.py) | EDA and visualizations |
 | [Infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/SQL%20Python%20D2C%20Skincare%20E-Commerce%20Analysis/D2C%20Skincare%20E-Commerce%20Analysis%20Infographic.pdf) | Infographic |
 
-> If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/d2c-skincare-e-commerce-analysis).
+If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/d2c-skincare-e-commerce-analysis).
 
 ---
 

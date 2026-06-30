@@ -34,7 +34,7 @@ View the full diagram as a [PDF infographic](https://github.com/laingangiang2006
 | [Infographic](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20Excel%20EDA%20Work-Life%20Balance%20and%20Longevity/Infographic.pdf) | Infographic |
 | [Jupyter Notebook]([main/work_life_balance.ipynb](https://github.com/laingangiang2006/Data-Analysis-Project/blob/main/Python%20Excel%20EDA%20Work-Life%20Balance%20and%20Longevity/work_life_balance.ipynb)) | EDA and visualizations |
 
-> If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/notebook8fe24a13b3).
+If you don't want to run and check my code locally, you can check it through my [Kaggle notebook](https://www.kaggle.com/code/laingangiang2006/notebook8fe24a13b3).
 
 ---
 
